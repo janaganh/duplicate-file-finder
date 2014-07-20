@@ -11,6 +11,9 @@ When application finds a duplicate pair, file names of these files are written t
 Features a UI to stop, restart and continue, search and writer threads.
 
 
+Intructions
+You can find the src code of project in the src folder, in the  dist folder you can find the find called "duplicatefinder.jar" you either double click it or use the command prompt and type in following:java -jar "<Path to project>\duplicatefinder\dist\duplicatefinder.jar". 
+
 Summary of Implementation :
 The entire source code has 3 files, 2 for the UI and 1 for main logic. (SearchDuplicate.java).
 

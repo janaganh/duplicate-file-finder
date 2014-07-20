@@ -4,6 +4,13 @@ massive-ironman
 Multi-Threaded duplicate files finder
 
 
+Features
+This is Program to find duplicate files (Files with same content) in a given folder and its sub folders.
+Application uses multithreading.
+When application finds a duplicate pair, file names of these files are written to results file.
+Features a UI to stop, restart and continue, search and writer threads.
+
+
 Summary of Implementation :
 The entire source code has 3 files, 2 for the UI and 1 for main logic. (SearchDuplicate.java).
 
